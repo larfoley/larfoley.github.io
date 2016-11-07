@@ -1,0 +1,36 @@
+.site-title, .site-subtitle {
+  // color: red;
+}
+
+.site-title {
+  // margin-bottom: 5px;
+}
+
+.site-subtitle {
+  // margin-top: 0;
+  color: white;
+  font-size: 2em;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+
+
+h2 {
+  text-transform: uppercase;
+  color: black;
+  // text-align: center;
+}
+
+.page-section__title:after {
+  content: "";
+  display: block;
+  width: 75px;
+  height: 7px;
+  // margin: auto;
+  background: #387;
+}
+
+p {
+  font-family: Helvetica;
+}

@@ -1,0 +1,11 @@
+.site-header {
+  background-color: color("mountain-meadow");
+  // background-color: #34495e;
+  color: white;
+  padding: 2em 0;
+  text-align: center;
+}
+
+.site-header > :first-child {
+  // margin-top: 0;
+}
